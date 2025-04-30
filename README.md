@@ -1,6 +1,6 @@
 # Key Point Iris Detection Using CNN
 
-**Key Point Iris Detection** is a deep learning-based iris detedtion system that leverages Convolutional Neural Networks (CNNs) to identify critical anatomical landmarks in human eye images, such as the iris boundary and pupil center. This approach provides high accuracy in iris recognition even in the presence of occlusions, lighting variations, and other real-world challenges. 
+**Key Point Iris Detection** is a deep learning-based iris detection system that leverages Convolutional Neural Networks (CNNs) to identify critical anatomical landmarks in human eye images, such as the iris boundary and pupil center. This approach provides high accuracy in iris recognition even in the presence of occlusions, lighting variations, and other real-world challenges. 
 
 Unlike traditional iris recognition techniques that rely on full iris texture analysis, the model emphasizes stable, localized features—ensuring faster and more robust iris detection. This system is particularly useful for applications in security, healthcare, surveillance, and personal device access.
 
