@@ -1,0 +1,1 @@
+Create image lables making eye coordinates for each of the captured image using LabelMe.
