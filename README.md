@@ -58,7 +58,7 @@ Traditional iris detection focuses on extracting and matching entire iris textur
 
 2. Clone the repository:
    ```sh
-    git clone https://github.com/<your-username>/key-point-iris-detection.git
+    git clone https://github.com/Atharva-Nagbhidkar/Key_Point_Iris_Detection_CNN.git
 3. Navigate to the project directory:
     ```sh
-    cd key-point-iris-detection
+    cd Key_Point_Iris_Detection_CNN
